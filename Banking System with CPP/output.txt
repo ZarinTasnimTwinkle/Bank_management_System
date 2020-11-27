@@ -1,0 +1,76 @@
+CPP Code's Output is looks like:
+
+***************************************************************************************************************
+                                            DATCH BANGLA BANK
+***************************************************************************************************************
+
+************** MAIN MENU **************
+L -> Login to Banking Menu
+Q -> Quit the Program
+
+Enter your option:
+l
+Enter account number:
+101
+
+
+*************** BANKING MENU ***************
+ 1 -> Display account holder's Informations:
+ 2 -> Money Deposit:
+ 3 -> Money Withdraw:
+ 4 -> Check account Balance:
+ 5 -> Return to Main-Menu:
+
+Enter your option:
+1
+
+Account holder Name: Zarin
+Account number is: 101
+Account type is: Saving
+Account balance is: 30000
+
+
+*************** BANKING MENU ***************
+ 1 -> Display account holder's Informations:
+ 2 -> Money Deposit:
+ 3 -> Money Withdraw:
+ 4 -> Check account Balance:
+ 5 -> Return to Main-Menu:
+
+Enter your option:
+2
+Enter the amount:
+200
+New balance is: 30200
+
+
+*************** BANKING MENU ***************
+ 1 -> Display account holder's Informations:
+ 2 -> Money Deposit:
+ 3 -> Money Withdraw:
+ 4 -> Check account Balance:
+ 5 -> Return to Main-Menu:
+
+Enter your option:
+4
+
+Your account balance is: 30200
+
+
+*************** BANKING MENU ***************
+ 1 -> Display account holder's Informations:
+ 2 -> Money Deposit:
+ 3 -> Money Withdraw:
+ 4 -> Check account Balance:
+ 5 -> Return to Main-Menu:
+
+Enter your option:
+5
+
+************** MAIN MENU **************
+L -> Login to Banking Menu
+Q -> Quit the Program
+
+Enter your option:
+q
+Thanks for Visiting!

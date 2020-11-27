@@ -1,0 +1,131 @@
+JAVA code's output is looks like:
+
+***************************************************************************************************************
+                                        DATCH BANGLA BANK LIMITED
+***************************************************************************************************************
+
+How Many Customer You Want to Input : 1
+Enter Account No: 101
+Enter Name: zarin
+Enter Balance: 5000000
+
+********Main Menu********      
+
+ 1. Display Account Information
+ 2. Deposit
+ 3. Withdrawal
+ 4. Show Balance
+ 5. Exit
+
+your Choice : 1
+Enter Account Number You Want to Search: 101
+
+Name-> zarin
+Account Number-> 101  
+Balance-> 5000000 taka
+
+Last Deposition Date : null
+Last Withdrawal Date : null
+
+********Main Menu********
+
+ 1. Display Account Information
+ 2. Deposit
+ 3. Withdrawal
+ 4. Show Balance
+ 5. Exit
+
+your Choice : 2
+Enter Account No : 101
+Enter Amount You Want to Deposit : 
+999
+Your New Balance : 5000999 taka
+Balance Deposite Time : Fri Nov 27 12:20:09 BDT 2020
+
+********Main Menu********
+
+ 1. Display Account Information
+ 2. Deposit
+ 3. Withdrawal
+ 4. Show Balance
+ 5. Exit
+
+your Choice : 3
+Enter Account No : 101
+Enter Amount You Want to withdraw : 
+2222
+Balance After Transaction : 4998777 taka
+Balance Withdraw Time : Fri Nov 27 12:20:34 BDT 2020
+
+********Main Menu********
+
+ 1. Display Account Information
+ 2. Deposit
+ 3. Withdrawal
+ 4. Show Balance
+ 5. Exit
+
+your Choice : 2
+Enter Account No : 101
+Enter Amount You Want to Deposit : 
+300
+Your New Balance : 4999077 taka
+Balance Deposite Time : Fri Nov 27 12:21:11 BDT 2020
+
+********Main Menu********
+
+ 1. Display Account Information
+ 2. Deposit
+ 3. Withdrawal
+ 4. Show Balance
+ 5. Exit
+
+your Choice : 3
+Enter Account No : 101
+Enter Amount You Want to withdraw : 
+666
+Balance After Transaction : 4998411 taka
+Balance Withdraw Time : Fri Nov 27 12:21:22 BDT 2020
+
+********Main Menu********
+
+ 1. Display Account Information
+ 2. Deposit
+ 3. Withdrawal
+ 4. Show Balance
+ 5. Exit
+
+your Choice : 4
+Enter Account No : 101
+Your Balance : 4998411 taka
+Last Deposition Date : Fri Nov 27 12:21:11 BDT 2020
+Last Withdrawal Date : Fri Nov 27 12:21:22 BDT 2020
+
+********Main Menu********
+
+ 1. Display Account Information
+ 2. Deposit
+ 3. Withdrawal
+ 4. Show Balance
+ 5. Exit
+
+your Choice : 1
+Enter Account Number You Want to Search: 101
+
+Name-> zarin
+Account Number-> 101
+Balance-> 4998411 taka
+
+Last Deposition Date : Fri Nov 27 12:21:11 BDT 2020
+Last Withdrawal Date : Fri Nov 27 12:21:22 BDT 2020
+
+********Main Menu********
+
+ 1. Display Account Information
+ 2. Deposit
+ 3. Withdrawal
+ 4. Show Balance
+ 5. Exit
+
+your Choice : 5
+Thanks for Visiting...
