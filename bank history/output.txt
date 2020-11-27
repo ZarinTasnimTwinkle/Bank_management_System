@@ -1,0 +1,52 @@
+Enter account number:
+101
+Enter 1 to display information:
+Enter 2 to deposit balance:
+Enter 3 to withdraw balance:
+Enter your option:
+1
+Name: Customer1
+Account number is: 101
+Account balance is: 10000
+Enter account number:
+102
+Enter 1 to display information:
+Enter 2 to deposit balance:
+Enter 3 to withdraw balance:
+Enter your option:
+2
+Enter the amount:
+300
+New balance is: 25300
+Enter account number:
+103
+Enter 1 to display information:
+Enter 2 to deposit balance:
+Enter 3 to withdraw balance:
+Enter your option:
+3
+Enter the amount:
+300
+Unsuccessful transaction
+Enter account number:
+103
+Enter 1 to display information:
+Enter 2 to deposit balance:
+Enter 3 to withdraw balance:
+Enter your option:
+1
+Name: Customer3
+Account number is: 103
+Account balance is: 45000
+Enter account number:
+103
+Enter 1 to display information:
+Enter 2 to deposit balance:
+Enter 3 to withdraw balance:
+Enter your option:
+3
+Enter the amount:
+500
+Successful transaction
+Enter account number:
+
